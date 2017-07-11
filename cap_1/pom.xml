@@ -4,7 +4,9 @@
   <groupId>org.neos</groupId>
   <artifactId>cap_1</artifactId>
   <packaging>jar</packaging>
+  <!--remote version --->
   <version>1.0-SNAPSHOT</version>
+  <!--name artefacto-->
   <name>cap_1</name>
   <url>http://maven.apache.org</url>
   <dependencies>
